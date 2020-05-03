@@ -35,11 +35,10 @@ while True:
 
         elif choice=='4':
             print(div(num1,num2))
-        break
         
         elif choice == '5':
 	        print(pow(num1, num2))
-	      break
+	break
 
     else:
         print("Invalid Input")
