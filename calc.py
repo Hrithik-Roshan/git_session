@@ -9,6 +9,7 @@ def mul(x, y):
   
 def div(x,y):
     return x/y
+
 def pow(x,y):
     return x**y
 
@@ -39,7 +40,7 @@ while True:
             print(div(num1,num2))
         
         elif choice == '5':
-	        print(pow(num1, num2))
+	    print(pow(num1, num2))
 	break
 
     else:
