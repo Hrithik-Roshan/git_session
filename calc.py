@@ -7,8 +7,10 @@ def subtract(x, y):
 def mul(x, y):
     return x * y
   
-def div(x,y);
+def div(x,y):
     return x/y
+def pow(x,y):
+    return x**y
 
 print("Select operation.")
 print("1.Add")
